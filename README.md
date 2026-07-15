@@ -127,12 +127,6 @@ The architecture illustrates the complete data flow from raw CSV datasets to int
 CSV Datasets
       │
       ▼
-Azure Data Factory
-      │
-      ▼
-Azure Data Lake Storage Gen2
-      │
-      ▼
 Bronze Layer
       │
       ▼
